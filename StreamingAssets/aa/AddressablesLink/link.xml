@@ -1,0 +1,208 @@
+<linker>
+  <assembly fullname="EasyTouchControls, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="ETCJoystick" preserve="all" />
+    <type fullname="ETCAxis" preserve="nothing" serialized="true" />
+    <type fullname="ETCJoystick/OnDownDownHandler" preserve="nothing" serialized="true" />
+    <type fullname="ETCJoystick/OnDownLeftHandler" preserve="nothing" serialized="true" />
+    <type fullname="ETCJoystick/OnDownRightHandler" preserve="nothing" serialized="true" />
+    <type fullname="ETCJoystick/OnDownUpHandler" preserve="nothing" serialized="true" />
+    <type fullname="ETCJoystick/OnMoveEndHandler" preserve="nothing" serialized="true" />
+    <type fullname="ETCJoystick/OnMoveHandler" preserve="nothing" serialized="true" />
+    <type fullname="ETCJoystick/OnMoveSpeedHandler" preserve="nothing" serialized="true" />
+    <type fullname="ETCJoystick/OnMoveStartHandler" preserve="nothing" serialized="true" />
+    <type fullname="ETCJoystick/OnTouchStartHandler" preserve="nothing" serialized="true" />
+    <type fullname="ETCJoystick/OnTouchUpHandler" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="FancyScrollView, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="FancyScrollView.Scroller" preserve="all" />
+    <type fullname="FancyScrollView.Scroller/Snap" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="GameClient, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AroundHeroRotateComponentAuthoring" preserve="all" />
+    <type fullname="AroundRotateParameterComponentAuthoring" preserve="all" />
+    <type fullname="AttackComponentAuthoring" preserve="all" />
+    <type fullname="AutogyrationComponentAuthoring" preserve="all" />
+    <type fullname="AutoTrackComponentAuthoring" preserve="all" />
+    <type fullname="BrokenLineMoveComponentAuthoring" preserve="all" />
+    <type fullname="BrokenLineMoveParameterComponentAuthoring" preserve="all" />
+    <type fullname="BulletAuthoring" preserve="all" />
+    <type fullname="BulletComponentAuthoring" preserve="all" />
+    <type fullname="Cell_UiBattleSelectPanel" preserve="all" />
+    <type fullname="Cell_UIHomePanel_Equip_Item" preserve="all" />
+    <type fullname="Cell_UIHomePanel_Talent_Node" preserve="all" />
+    <type fullname="CircleRoundMoveComponentAuthoring" preserve="all" />
+    <type fullname="DropAnimationComponentAuthoring" preserve="all" />
+    <type fullname="DropComponentAuthoring" preserve="all" />
+    <type fullname="DropThingRegister" preserve="all" />
+    <type fullname="EnemyComponentAuthoring" preserve="all" />
+    <type fullname="ExplodeComponentAuthoring" preserve="all" />
+    <type fullname="FollowBulletComponentAuthoring" preserve="all" />
+    <type fullname="FollowCamera" preserve="all" />
+    <type fullname="GameClient.FButton" preserve="all" />
+    <type fullname="GameClient.FImage" preserve="all" />
+    <type fullname="GameClient.FRawImage" preserve="all" />
+    <type fullname="GameClient.FText" preserve="all" />
+    <type fullname="GameClient.LoadingManager" preserve="all" />
+    <type fullname="GameClient.MessageRequestSenderController" preserve="all" />
+    <type fullname="GameClient.UiBattlePanel" preserve="all" />
+    <type fullname="GameClient.UiBattlePausePanel" preserve="all" />
+    <type fullname="GameClient.UiBattleSelectPanel" preserve="all" />
+    <type fullname="GameClient.UIController" preserve="all" />
+    <type fullname="GameClient.UiEquipDetailPanel" preserve="all" />
+    <type fullname="GameClient.UIHomePanel" preserve="all" />
+    <type fullname="GameClient.UIHomePanel_Challenge" preserve="all" />
+    <type fullname="GameClient.UIHomePanel_Equip" preserve="all" />
+    <type fullname="GameClient.UIHomePanel_Main" preserve="all" />
+    <type fullname="GameClient.UIHomePanel_Shop" preserve="all" />
+    <type fullname="GameClient.UIHomePanel_Talent" preserve="all" />
+    <type fullname="GameClient.UILoginPanel" preserve="all" />
+    <type fullname="GameClient.UiLuckyTrain" preserve="all" />
+    <type fullname="GameClient.UiSelectSkillPanel" preserve="all" />
+    <type fullname="GameClient.UISelectSkillPanel_Item" preserve="all" />
+    <type fullname="GameLaunch.GameStart" preserve="all" />
+    <type fullname="GradientColorComponentAuthoring" preserve="all" />
+    <type fullname="GridView_UIHomePanel_Equip_Item" preserve="all" />
+    <type fullname="HeroComponentAuthoring" preserve="all" />
+    <type fullname="HpComponentAuthoring" preserve="all" />
+    <type fullname="LargenComponentAuthoring" preserve="all" />
+    <type fullname="LastPositionComponentAuthoring" preserve="all" />
+    <type fullname="LineRenderComponentAuthoring" preserve="all" />
+    <type fullname="LockTargetComponentAuthoring" preserve="all" />
+    <type fullname="MonsterSpawner" preserve="all" />
+    <type fullname="MoveComponentAuthoring" preserve="all" />
+    <type fullname="MoveUpAnimationComponentAuthoring" preserve="all" />
+    <type fullname="OwnerComponentAuthoring" preserve="all" />
+    <type fullname="ParabolaMoveComponentAuthoring" preserve="all" />
+    <type fullname="PhysicsFPS" preserve="all" />
+    <type fullname="PopUpWordMaterialComponentAuthoring" preserve="all" />
+    <type fullname="PopupWordRegister" preserve="all" />
+    <type fullname="ScaleAnimationComponentAuthoring" preserve="all" />
+    <type fullname="ScrollView_UiBattleSelectPanel" preserve="all" />
+    <type fullname="ScrollView_UIHomePanel_Talent_Node" preserve="all" />
+    <type fullname="SpawnBulletComponentAuthoring" preserve="all" />
+    <type fullname="SpiralMoveComponentAuthoring" preserve="all" />
+    <type fullname="SpiralMoveParameterComponentAuthoring" preserve="all" />
+    <type fullname="SpriteAnimationComponentAuthoring" preserve="all" />
+    <type fullname="SpriteAnimationData" preserve="all" />
+    <type fullname="SpriteAnimator" preserve="all" />
+    <type fullname="SpriteAnimatorData" preserve="all" />
+    <type fullname="SpriteAuthoring" preserve="all" />
+    <type fullname="SpriteIndexComponentAuthoring" preserve="all" />
+    <type fullname="SpriteRenderComponentAuthoring" preserve="all" />
+    <type fullname="SpriteRenderRegisterSystem" preserve="all" />
+    <type fullname="StraightLineMoveComponentAuthoring" preserve="all" />
+    <type fullname="StraightLineMoveParameterComponentAuthoring" preserve="all" />
+    <type fullname="TailComponentAuthoring" preserve="all" />
+    <type fullname="TailRegisterSystem" preserve="all" />
+    <type fullname="TargetHintComponentAuthoring" preserve="all" />
+    <type fullname="TimeoutDestroySelfComponentAuthoring" preserve="all" />
+    <type fullname="ToDesignatedMoveComponentAuthoring" preserve="all" />
+    <type fullname="WanderMoveComponentAuthoring" preserve="all" />
+    <type fullname="WeaponComponentAuthoring" preserve="all" />
+    <type fullname="PopupWordPrefab" preserve="nothing" serialized="true" />
+    <type fullname="MobStyle" preserve="nothing" serialized="true" />
+    <type fullname="MobType" preserve="nothing" serialized="true" />
+    <type fullname="MobUnit" preserve="nothing" serialized="true" />
+    <type fullname="TailLineRender" preserve="nothing" serialized="true" />
+    <type fullname="SpriteRenderRegister" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+    <type fullname="UnityEngine.AddressableAssets.Initialization.CacheInitialization" preserve="all" />
+    <type fullname="UnityEngine.AddressableAssets.Initialization.CacheInitializationData" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Entities.Hybrid, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Unity.Entities.ConvertToEntity" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Physics.Hybrid, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Unity.Physics.Authoring.PhysicsBodyAuthoring" preserve="all" />
+    <type fullname="Unity.Physics.Authoring.PhysicsShapeAuthoring" preserve="all" />
+    <type fullname="Unity.Physics.Authoring.PhysicsStepAuthoring" preserve="all" />
+    <type fullname="Unity.Physics.Authoring.CustomPhysicsMaterialTags" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Physics.Authoring.EulerAngles" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Physics.Authoring.OverridableCategoryTags" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Physics.Authoring.OverridableCollisionResponse" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Physics.Authoring.OverridableCustomMaterialTags" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Physics.Authoring.OverridableMaterialCoefficient" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Physics.Authoring.PhysicsCategoryTags" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Physics.Authoring.PhysicsMaterialCoefficient" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Physics.Authoring.PhysicsMaterialProperties" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Physics.Authoring.PhysicsShapeAuthoring/CylindricalProperties" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Physics.Authoring.CustomPhysicsBodyTags" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AtlasSpriteProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.LightmapSettings" preserve="all" />
+    <type fullname="UnityEngine.LineRenderer" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.RenderSettings" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.GridModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Grid" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TilemapModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Tilemaps.Tile" preserve="all" />
+    <type fullname="UnityEngine.Tilemaps.Tilemap" preserve="all" />
+    <type fullname="UnityEngine.Tilemaps.TilemapRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Mathematics">
+    <type fullname="Unity.Mathematics.float2" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Mathematics.float3" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Mathematics.float4" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Physics">
+    <type fullname="Unity.Physics.ConvexHullGenerationParameters" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
