@@ -20,6 +20,7 @@
   <assembly fullname="GameClient, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="AroundHeroRotateComponentAuthoring" preserve="all" />
     <type fullname="AroundRotateParameterComponentAuthoring" preserve="all" />
+    <type fullname="AttachmentComponentAuthoring" preserve="all" />
     <type fullname="AttackComponentAuthoring" preserve="all" />
     <type fullname="AutogyrationComponentAuthoring" preserve="all" />
     <type fullname="AutoTrackComponentAuthoring" preserve="all" />
@@ -76,6 +77,7 @@
     <type fullname="PhysicsFPS" preserve="all" />
     <type fullname="PopUpWordMaterialComponentAuthoring" preserve="all" />
     <type fullname="PopupWordRegister" preserve="all" />
+    <type fullname="PreWarDrop" preserve="all" />
     <type fullname="ScaleAnimationComponentAuthoring" preserve="all" />
     <type fullname="ScrollView_UiBattleSelectPanel" preserve="all" />
     <type fullname="ScrollView_UIHomePanel_Talent_Node" preserve="all" />
@@ -100,11 +102,15 @@
     <type fullname="WanderMoveComponentAuthoring" preserve="all" />
     <type fullname="WeaponComponentAuthoring" preserve="all" />
     <type fullname="PopupWordPrefab" preserve="nothing" serialized="true" />
+    <type fullname="PreWarDropInfo" preserve="nothing" serialized="true" />
     <type fullname="MobStyle" preserve="nothing" serialized="true" />
     <type fullname="MobType" preserve="nothing" serialized="true" />
     <type fullname="MobUnit" preserve="nothing" serialized="true" />
     <type fullname="TailLineRender" preserve="nothing" serialized="true" />
     <type fullname="SpriteRenderRegister" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="GameCommon, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="GameCommon.TimerController" preserve="all" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
@@ -163,6 +169,9 @@
   </assembly>
   <assembly fullname="UnityEngine.GridModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Grid" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.TilemapModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Tilemaps.Tile" preserve="all" />
