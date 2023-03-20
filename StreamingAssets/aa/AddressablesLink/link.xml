@@ -32,13 +32,12 @@
     <type fullname="Cell_UIHomePanel_Equip_Item" preserve="all" />
     <type fullname="Cell_UIHomePanel_Talent_Node" preserve="all" />
     <type fullname="CircleRoundMoveComponentAuthoring" preserve="all" />
-    <type fullname="DropAnimationComponentAuthoring" preserve="all" />
     <type fullname="DropComponentAuthoring" preserve="all" />
     <type fullname="DropThingRegister" preserve="all" />
     <type fullname="EnemyComponentAuthoring" preserve="all" />
     <type fullname="ExplodeComponentAuthoring" preserve="all" />
-    <type fullname="FollowBulletComponentAuthoring" preserve="all" />
     <type fullname="FollowCamera" preserve="all" />
+    <type fullname="FollowComponentAuthoring" preserve="all" />
     <type fullname="GameClient.FButton" preserve="all" />
     <type fullname="GameClient.FImage" preserve="all" />
     <type fullname="GameClient.FRawImage" preserve="all" />
@@ -58,11 +57,13 @@
     <type fullname="GameClient.UIHomePanel_Talent" preserve="all" />
     <type fullname="GameClient.UILoginPanel" preserve="all" />
     <type fullname="GameClient.UiLuckyTrain" preserve="all" />
+    <type fullname="GameClient.UiLuckyTrain_Item" preserve="all" />
     <type fullname="GameClient.UiSelectSkillPanel" preserve="all" />
     <type fullname="GameClient.UISelectSkillPanel_Item" preserve="all" />
     <type fullname="GameLaunch.GameStart" preserve="all" />
     <type fullname="GradientColorComponentAuthoring" preserve="all" />
     <type fullname="GridView_UIHomePanel_Equip_Item" preserve="all" />
+    <type fullname="HeroAuthoring" preserve="all" />
     <type fullname="HeroComponentAuthoring" preserve="all" />
     <type fullname="HpComponentAuthoring" preserve="all" />
     <type fullname="LargenComponentAuthoring" preserve="all" />
@@ -104,13 +105,13 @@
     <type fullname="PopupWordPrefab" preserve="nothing" serialized="true" />
     <type fullname="PreWarDropInfo" preserve="nothing" serialized="true" />
     <type fullname="MobStyle" preserve="nothing" serialized="true" />
-    <type fullname="MobType" preserve="nothing" serialized="true" />
     <type fullname="MobUnit" preserve="nothing" serialized="true" />
     <type fullname="TailLineRender" preserve="nothing" serialized="true" />
     <type fullname="SpriteRenderRegister" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="GameCommon, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="GameCommon.TimerController" preserve="all" />
+    <type fullname="GameCommon.MonsterType" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
